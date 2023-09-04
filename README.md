@@ -16,13 +16,13 @@ I have extensive experience with a range of technologies and tools, including:
 - 🌐 **Web Frameworks:** Next.js, Tailwind CSS
 - 📱 **Mobile App Development:** Flutter, React Native
 
-<div style="display: flex; justify-content: space-between; ">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" width="70" height="70" />
-    <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js"  width="70" height="70" />
-    <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter" width="70" height="70" />
-    <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Tailwind CSS" width="120" height="70" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" alt="Bootstrap" width="70" height="70" />
-     <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Material UI" width="70" height="70" />
+<div style="display: flex; justify-content: space-between;  ">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" style="margin-left: 10px;" width="70" height="70" />
+    <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js"  width="70" height="70" style="margin-left: 10px;" />
+    <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter" width="70" height="70" style="margin-left: 10px;" />
+    <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Tailwind CSS" width="120" height="70" style="margin-left: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" alt="Bootstrap" style="margin-left: 10px;" width="70" height="70" />
+     <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Material UI" width="70" height="70" style="margin-left: 10px;" />
 </div>
 
 ## Asanbilit Web Application
