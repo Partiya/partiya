@@ -17,10 +17,12 @@ I have extensive experience with a range of technologies and tools, including:
 - 📱 **Mobile App Development:** Flutter, React Native
 
 <div style="display: flex; justify-content: space-between; margin: 0 auto; max-width: 1000px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" width="60" height="50" />
-    <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js"  width="140" height="70" />
-    <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter" width="60" height="50" />
-    <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Tailwind CSS" width="140" height="70" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" width="70" height="70" />
+    <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js"  width="70" height="70" />
+    <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter" width="70" height="70" />
+    <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Tailwind CSS" width="70" height="70" />
+    <img src="https://assets.stickpng.com/images/62a76468bd73a4af5c5d4fb7.png" alt="Bootstrap" width="70" height="70" />
+     <img src="[https://assets.stickpng.com/images/62a76468bd73a4af5c5d4fb7.png](https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png)" alt="Material UI" width="70" height="70" />
 </div>
 
 ## Asanbilit Web Application
