@@ -16,11 +16,11 @@ I have extensive experience with a range of technologies and tools, including:
 - 🌐 **Web Frameworks:** Next.js, Tailwind CSS
 - 📱 **Mobile App Development:** Flutter, React Native
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; width:100%">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" width="60" height="50" />
-    <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js" width="60" height="50" />
+    <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js" width="80" height="50" />
     <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter" width="60" height="50" />
-  <img src=" https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Flutter" width="60" height="50" />
+  <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Flutter" width="80" height="50" />
 
 </div>
 
