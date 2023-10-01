@@ -1,6 +1,6 @@
 # Hello, I'm Partiya 👋
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with 2 years of experience in the field. I specialize in building web applications and mobile apps, and I'm excited to share my work with you.
+Welcome to my GitHub profile! I'm a passionate front-end developer with 3 years of experience in the field. I specialize in building web applications and mobile apps, and I'm excited to share my work with you.
 
 ## About Me
 
