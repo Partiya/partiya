@@ -20,11 +20,20 @@ I build things with:
 🛢 Databases & Infra: PostgreSQL, Redis, Firebase, Vercel , MongoDb 
 <div style="display: flex; justify-content: space-between;"> 
     <img style="width:50px; height:50px" src="https://cmscritic.com/ms-content/uploads/2023/08/nextjs-product-logo.jpeg?format=auto&width=96" />
+        <img style="width:50px; height:50px" src="https://i.pinimg.com/736x/60/17/da/6017da3ed8f203fe979b16dae1ad2259.jpg" />
+            <img style="width:50px; height:50px" src="https://avatars.githubusercontent.com/u/108266839?s=280&v=4" />
+                <img style="width:50px; height:50px" src="https://cdnlogo.com/logos/r/85/react.svg" />
+            <img style="width:50px; height:50px" src="https://logowik.com/content/uploads/images/nestjs-node-js1721157583.logowik.com.webp" />
+      <img style="width:50px; height:50px" src="https://miro.medium.com/v2/resize:fit:22584/1*WDX58nzlaiClqTFT59v7RQ.jpeg"/>
+      <img style="width:50px; height:50px" src="https://seeklogo.com/images/N/nuxt-2023-logo-7D939E3251-seeklogo.com.png"/>
+      <img style="width:50px; height:50px" src="https://balticanebula.com/content/images/2023/06/plus-tailwind.jpg"/>
+      <img style="width:50px; height:50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png"/>
 
+  
  </div>
 📬 Let's Connect
 🐼 If you also believe in writing clean code and taking power naps, hit me up!
 
-📧 Email: noobinoob16@gmail.com
-💼 LinkedIn: Poria Malakooti
+📧 Email: partiya.malakooti.dev@gmail.com
+📨 Telegram: @PandaExecption
 🚀 GitHub: You're already here, so... smash that ⭐ button!
