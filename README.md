@@ -20,7 +20,7 @@ I build things with:
 🛢 Databases & Infra: PostgreSQL, Redis, Firebase, Vercel , MongoDb 
 <div style="display: flex; justify-content: space-between">
   <img
-    style="width: 70px; object-fit: contain; height: 70px"
+    style="width: 70px; object-fit: fill; height: 70px"
     src="https://cmscritic.com/ms-content/uploads/2023/08/nextjs-product-logo.jpeg?format=auto&width=96"
   />
   <img
