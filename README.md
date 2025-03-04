@@ -1,55 +1,30 @@
-# Hello, I'm Partiya 👋
+🐼 Hey there, I'm Partiya! 👋
+Welcome to my cozy little GitHub cave! I'm a full-stack panda 🐼💻 who munches on Next.js, T3 stack, Vue, Nuxt, and whatever JavaScript framework tastes good that day.
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with 3 years of experience in the field. I specialize in building web applications and mobile apps, and I'm excited to share my work with you.
+🌿 About Me
+🏡 Live in the bamboo forests of Tehran, Iran
+🎓 Studied Software Engineering at Tehran Shomal Azad University
+🛠️ Code by day, nap by night—because productivity is just well-rested efficiency
+💡 What I Do
+I spend my time building cool things, like:
 
-## About Me
+✈️ Flight booking & ticket buying systems (helping travelers, one ticket at a time!)
+🛒 E-commerce applications (where pandas shop for bamboo, and you buy cool stuff)
+🏆 Gold & GPS tracking systems (because pandas like to know where their treasures are!)
+🛠️ My Tech Stack
 
-- 🌍 I'm from Iran,Tehran.
-- 🎓 I studied Software Engineering at Tehran Shomal Azad University.
-- 💼 I work as a front-end developer with a strong focus on user interfaces.
+I build things with:
 
-## My Expertise
+🚀 Front-End: Next.js, Vue, Nuxt, React, TailwindCSS
+🔥 Back-End: T3 Stack , Node js , Nest js  (TypeScript, tRPC, Prisma, NextAuth)
+🛢 Databases & Infra: PostgreSQL, Redis, Firebase, Vercel , MongoDb 
+<div style="display: flex; justify-content: space-between;"> 
+    <img style="width:50px; height:50px" src="https://cmscritic.com/ms-content/uploads/2023/08/nextjs-product-logo.jpeg?format=auto&width=96" />
 
-I have extensive experience with a range of technologies and tools, including:
+ </div>
+📬 Let's Connect
+🐼 If you also believe in writing clean code and taking power naps, hit me up!
 
-- 🚀 **Front-End Technologies:** React , HTML, JavaScript, CSS
-- 🌐 **Web Frameworks:** Next.js, Tailwind CSS
-- 📱 **Mobile App Development:** Flutter, React Native
-
-<div style="display: flex; justify-content: space-between;  ">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" style="margin-left: 20px;" width="70" height="70" />
-    <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js"  width="70" height="70" style="margin-left: 20px;" />
-    <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter" width="70" height="70" style="margin-left: 20px;" />
-    <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Tailwind CSS" width="120" height="70" style="margin-left: 20px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" alt="Bootstrap" style="margin-left: 20px;" width="70" height="70" />
-     <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Material UI" width="70" height="70" style="margin-left: 20px;" />
-</div>
-
-## Asanbilit Web Application
-
-One of my notable projects is the web application "Asanbilit." It's a web platform that focuses on simplifying the booking process for hotel stays, flights, and tour tickets for travelers and adventure seekers. 
-
-With "Asanbilit," users can:
-
-- ✈️ Browse and book flights to various destinations.
-- 🏨 Find and reserve hotel accommodations.
-- 🌄 Explore and book exciting tour packages.
-
-The application is designed with a user-friendly interface, making it easy for travelers to plan their trips and make reservations hassle-free.
-
-
-
-## Get in Touch
-
-I'd love to connect with you! You can reach me on:
-
-- 📧 Email: noobinoob16@gmail.com
-- 📱 Phone : 09192252320
-- 💼 LinkedIn: https://www.linkedin.com/in/poria-malakooti-2797a828b/
-
-
-Don't hesitate to drop a message or reach out if you have any questions, suggestions, or just want to chat.
-
-## Thanks for Visiting!
-
-Thank you for stopping by my GitHub profile. I'm passionate about front-end development and building user-friendly applications. Feel free to explore my projects, contribute, or get in touch—I look forward to connecting with you! 🚀
+📧 Email: noobinoob16@gmail.com
+💼 LinkedIn: Poria Malakooti
+🚀 GitHub: You're already here, so... smash that ⭐ button!
